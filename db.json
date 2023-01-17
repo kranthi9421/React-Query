@@ -14,6 +14,51 @@
       "id": 3,
       "name": "Wonder Women",
       "alterEgo": "Princess Dian"
+    },
+    {
+      "name": "Hayu ",
+      "alterEgo": "Smart",
+      "id": 4
+    },
+    {
+      "name": "Mounica",
+      "alterEgo": "Kayala",
+      "id": 5
+    },
+    {
+      "name": "Chota",
+      "alterEgo": "Budda",
+      "id": 6
+    },
+    {
+      "name": "Surya",
+      "alterEgo": "Bhai",
+      "id": 7
+    },
+    {
+      "name": "Rajanna",
+      "alterEgo": "sangem",
+      "id": 8
+    },
+    {
+      "name": "Catwomen",
+      "alterEgo": "celinakaile",
+      "id": 9
+    },
+    {
+      "name": "Aruamanu",
+      "alterEgo": "auther curry",
+      "id": 10
+    },
+    {
+      "name": "Santa",
+      "alterEgo": "Bomerthi",
+      "id": 11
+    },
+    {
+      "name": "vikram",
+      "alterEgo": "sahoo",
+      "id": 12
     }
   ],
   "friends": [
@@ -39,10 +84,14 @@
   "channels": [
     {
       "id": "codevolution",
-      "courses": ["react", "node", "vue"]
+      "courses": [
+        "react",
+        "node",
+        "vue"
+      ]
     }
   ],
-  "colors":[
+  "colors": [
     {
       "id": 1,
       "label": "green"
