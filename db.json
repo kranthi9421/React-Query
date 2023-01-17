@@ -1,0 +1,79 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Women",
+      "alterEgo": "Princess Dian"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Hayu"
+    },
+    {
+      "id": 2,
+      "name": "Mounica"
+    },
+    {
+      "id": 3,
+      "name": "Budda"
+    }
+  ],
+  "users": [
+    {
+      "id": "kranthi@gmail.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "courses": ["react", "node", "vue"]
+    }
+  ],
+  "colors":[
+    {
+      "id": 1,
+      "label": "green"
+    },
+    {
+      "id": 2,
+      "label": "yellow"
+    },
+    {
+      "id": 3,
+      "label": "red"
+    },
+    {
+      "id": 4,
+      "label": "orange"
+    },
+    {
+      "id": 5,
+      "label": "pink"
+    },
+    {
+      "id": 6,
+      "label": "blue"
+    },
+    {
+      "id": 7,
+      "label": "voilet"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
