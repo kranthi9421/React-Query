@@ -8,7 +8,7 @@ const initialState = {
 };
 
 export const fetchUsers = createAsyncThunk("user/fetchUsers", async () => {
-  const { data } = await axios.get("https://jsonplaceholder.typicode.com/pos");
+  const { data } = await axios.get("https://jsonplaceholder.typicode.com/post");
   return data
 });
 
